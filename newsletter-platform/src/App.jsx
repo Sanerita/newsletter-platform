@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 import NavScroll from './components/navbar'
-
+import HomePage from './components/homePage'
 
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
     
       <div>
         <NavScroll />
+        <HomePage />
     </div>
   )
 }

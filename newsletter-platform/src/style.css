@@ -7,3 +7,19 @@
   }
  
 }
+.home{
+
+  height: 100vh;
+  padding: 0%;
+  margin: 0%;
+}
+
+.box-container{
+
+  height: 80vh;
+  background-image: url('./assets/pngwing.png');
+ width: 50%;
+ 
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
