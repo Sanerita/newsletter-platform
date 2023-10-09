@@ -1,5 +1,8 @@
 import React from 'react'
 import './style.css'
+import NavScroll from './components/navbar'
+
+
 
 function App() {
   
@@ -7,7 +10,7 @@ function App() {
   return (
     
       <div>
-        
+        <NavScroll />
     </div>
   )
 }
